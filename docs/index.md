@@ -1,14 +1,14 @@
 ---
+
 layout: cv
-title: Brigham Young's Resume
+title: Eduardo I Ramirez's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Eduardo I Ramirez
+A convert to the Church of Jesus Christ of Latter-Day Saints
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+<a href="Eduardo.er.Ramirez@gmail.com">eduardo.er.ramirez@gmail.com</a>
+| <a href="https://www.linkedin.com/in/eduardo-ramirez-31198b1b8/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -16,74 +16,72 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`July 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
+- Bachelor of Science in Financial Economics with a minor in Data Science and Financial Planning
+- Area of interest: Business Analytics, Business Owner, Operations Manager
 
-- 4.0 Major GPA
+## Experience
 
+### Store Manager
+`Jan. 2015 - Feb. 2017`
+__Petro Consulting Services LLC__, Chula Vista, CA
+- Managed employee staffing, scheduling, HR needs, and sales analysis.
+- Enhanced leadership skills and problem-solving under pressure.
+- Ensured compliance with federal, state, and local regulations.
+- Improved category sales management and overall store profitability.
+- Managed daily cash handling and banking responsibilities.
 
-## Related Experience
+### Fleet and IT Manager
+`Feb. 2016 - Feb. 2017`
+__Petro Consulting Services LLC__, Chula Vista, CA
+- Implemented a proprietary Fleet card system (Triple E Technologies).
+- Integrated fleet software with existing point of sale systems.
+- Managed over $1,000,000 per month in credit sales.
+- Digitalized transaction processes and expanded diesel & trucking business.
 
-### Internships
+### Analytic Research
+`March. 2023 - Current`
+__E&J Investments LLC__, St Anthony, ID
+- Analyzed Laundromat equipment sales and business expenses.
+- Developed profitability models and investment analysis.
+- Researched and advised on new technologies and investment opportunities.
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+## Volunteer Experience
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+### Full-Time Missionary
+`Dec. 2017 - Jan. 2020`
+__The Church of Jesus Christ of Latter-Day Saints__, Cape Verde, Africa
+- Engaged in teaching and community service.
 
-### Data Science Lead
+### Homeless Shelter Volunteer
+`Jan. 2020 - Aug. 2020`
+__Homeless Shelter__, San Diego, California
+- Organized dinners and essential kits for homeless youth.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Financial Economics Society Secretary
+`Sept. 2022 - Mar. 2023`
+__Brigham Young University-Idaho__
+- Admin support, data entry, and organizational management.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+## Skills
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Fluent in Spanish, English, and Portuguese.
+- Proficient in Excel, R, Stata, SQL, HTML, and Python.
+- Strong skills in management, leadership, analytical, and strategic thinking.
+- Experienced in financial management, data analysis, and presentation.
+- Cross-cultural experience and volunteer work.
+- Organizational management skills.
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+## Certificates
 
-### Data Science Consulting Team
+- Bloomberg Market Concepts, Issued December 2022
+- Spreadsheet Modeling, Issued September 29, 2022
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+---
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2024 -->
 
 
