@@ -1,60 +1,90 @@
-# md-resume
+---
+layout: cv
+title: Eduardo I. Ramirez's CV
+---
+# Eduardo I. Ramirez
+Financial Economist, Data Scientist, Business Analyst
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+<div id="webaddress">
+<a href="Eduardo.er.ramirez@gmail.com">Eduardo.er.ramirez@gmail.com</a>
+| <a href="https://www.linkedin.com/in/eduardo-ramirez-31198b1b8/">My LinkedIn Profile</a>
+</div>
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+## Currently
 
-***
+Student at Brigham Young University-Idaho, Majoring in Financial Economics with a minor in Data Science and Financial Planning.
 
-## Customization
+### Specialized in
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+Business Analytics, Operations Management, Data Analysis
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+### Research interests
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+Sales analysis, financial management, business investment opportunities, data-driven decision making
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+## Education
 
-adding your skills, jobs and education.
+`Expected Graduation: July 2025`
+__Bachelor of Science in Financial Economics__, Brigham Young University-Idaho, Rexburg ID
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+- Minor in Data Science and Financial Planning
+- Area of interest: Business Analytics, Business Owner, Operations Manager
 
-## Distribution
+## Experience
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
+### Store Manager
+`Jan 2015 - Feb 2017`
+__Petro Consulting Services LLC, Chula Vista, CA__
 
-### I. Use Github Pages to publish it online
+- Managed staffing, scheduling, HR needs, and sales analysis.
+- Developed leadership skills, problem-solving under pressure.
 
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
+### Fleet and IT Manager
+`Feb 2016 - Feb 2017`
+__Petro Consulting Services LLC, Chula Vista, CA__
 
-![](docs_setup.png)
+- Implemented proprietary Fleet card system.
+- Managed technology integration, increased sales and profitability.
 
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
+### Analytic Research
+`March 2023 - Current`
+__E&J Investments LLC, St Anthony, ID__
 
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
+- Analyzed sales, expenses, and profitability of Laundromat equipment.
+- Proposed new investment opportunities and strategies.
 
-## Styling
+## Volunteer Experience
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+### Full-time Missionary
+`Dec 2017 - Jan 2020`
+__The Church of Jesus Christ of Latter-Day Saints, Cape Verde, Africa__
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
+- Taught local communities about religious beliefs.
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+### Volunteer at Homeless Shelter
+`Jan 2020 - Aug 2020`
+__San Diego, California__
 
-### Author
+- Organized dinners and essential kits for homeless youth.
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+### Financial Economics Society Secretary
+`Sep 2022 - Mar 2023`
+__Brigham Young University-Idaho__
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+- Administrative support, data entry, and organizational management.
 
-### License
+## Skills
 
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+- Fluent in Spanish, English, and Portuguese.
+- Data Analysis: Excel, R, Stata, SQL, HTML, Python.
+- Management, Leadership, Analytical and Strategic Thinking.
+- Financial Management, Data Presentation.
+
+## Certificates
+
+- Bloomberg Market Concepts, Issued December 2022
+- Spreadsheet Modeling, Issued September 29, 2022
+
+<!-- Footer -->
+
+Last updated: Mar 2024 -->
