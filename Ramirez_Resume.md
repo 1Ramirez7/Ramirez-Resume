@@ -12,7 +12,7 @@ Financial Economist, Data Scientist, Business Analyst
 
 ## Currently
 
-Student at Brigham Young University-Idaho, specializing in Financial Economics with a minor in Data Science and Financial Planning.
+Student at Brigham Young University-Idaho, Majoring in Financial Economics with a minor in Data Science and Financial Planning.
 
 ### Specialized in
 
